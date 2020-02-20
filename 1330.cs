@@ -30,7 +30,6 @@ namespace bla
                     Console.WriteLine("==");
             }
             else Console.WriteLine("Error!");
-
         }
     }
 }
